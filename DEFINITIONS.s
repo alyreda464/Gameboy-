@@ -36,7 +36,7 @@ RCC_APB2ENR EQU RCC_BASE + 0x18
 ;RST= PB15		Reset		--> to reset the TFT (active low)
 ;D0-7 = PA0-7	Data BUS	--> Put your command or data on this bus
 ;UP = B10
-;DOWN= B12
+;DOWN= B11
 ;LEFT= C13
 ;RIGHT=C14
 
